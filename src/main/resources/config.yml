@@ -1,0 +1,21 @@
+config:
+  #License | Contact @NaickJar on Telegram to get one
+  license-key: ""
+  #World | The world where you want to get the time
+  world: "world"
+time:
+  #Day of the Month | 1 - 30/31
+  day: 1
+  #Day of the Week | 1 - 7
+  week: 1
+  #Month of the Year | 1- 12
+  month: 1
+  #Year
+  year: 2021
+bossbar:
+  #Example: 13:50 Lunedì 1 Gennaio 2021
+  title: "&2| &a%hours%:%minutes% %day% %number% %month% %year%"
+  #Color of the BossBar | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/boss/BarColor.html
+  color: GREEN
+  #Style of the BossBar | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/boss/BarStyle.html
+  style: SEGMENTED_6

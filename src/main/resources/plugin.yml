@@ -1,0 +1,4 @@
+name: rpDate
+version: '${project.version}'
+main: it.naick.rpdate.rpDate
+authors: [ Naick ]
